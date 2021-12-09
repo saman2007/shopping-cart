@@ -1,0 +1,9 @@
+.footer {
+    width: fit-content;
+    height: fit-content;
+    margin: 0 auto 40px auto;
+    background-color: rgb(17, 0, 255);
+    padding: 8px;
+    color: cornsilk;
+    border-radius: 5px;
+}
